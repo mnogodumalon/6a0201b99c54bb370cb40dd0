@@ -1,0 +1,1 @@
+- Bdbddb Erfassung (bdbddb_erfassung): titel[string/text], beschreibung[string/textarea], datum[date/date], status[lookup/select], anmerkungen[string/textarea]
